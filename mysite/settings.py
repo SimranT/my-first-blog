@@ -25,7 +25,7 @@ SECRET_KEY = '%xfbl8dhznvw+%rj3b&s*zqp@-e5a+x3)2na$o6#vp-2-^$t-d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com', 'simranT11.pythonanywhere.com']
 
 
 # Application definition
